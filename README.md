@@ -107,7 +107,6 @@ https://jesanre.github.io/lista-de-elementos/
 
 🖼️ Captura de pantalla
 
-Añade aquí una captura para hacer el README más visual:
 
 ![Vista previa de la app](./screenshot.png)
 
